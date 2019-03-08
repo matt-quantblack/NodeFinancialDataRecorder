@@ -1,0 +1,17 @@
+{
+  "name": "node-historic-data-recorder",
+  "version": "1.0.0",
+  "description": "Records tick data from the CTrader API and stores data on a google drive",
+  "author": "Quant Black <matt@quantblack.com>",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^2.4.2",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.0.0",
+    "moment": "^2.24.0",
+    "simple-node-logger": "^18.12.22"
+  }
+}
