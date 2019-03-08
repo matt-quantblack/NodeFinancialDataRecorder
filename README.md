@@ -9,7 +9,9 @@ This node version of the data recorded can be easily and cheaply run 24/7 as a w
 ## Installation
 
 Clone the repository.
+
 npm install
+
 npm start
 
 ## Usage
