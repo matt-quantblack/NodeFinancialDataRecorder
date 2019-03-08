@@ -2,7 +2,7 @@
 
 Most trading applications only store the minute data and only the bid feed so it is difficult to get the high resolution tick data as well as the ask feed which allows for an accurate calculation of the spread.
 
-This application records live bid and ask tick data from your forex broker using the cTrader API. The data is stored using google clound storage. This data can later be used for accurate backtesting of trading strategies.
+This application records live bid and ask tick data from your forex broker using the cTrader API. The data is stored using google cloud storage. This data can later be used for accurate backtesting of trading strategies.
 
 This node version of the data recorded can be easily and cheaply run 24/7 as a web app on Heroku servers
 
