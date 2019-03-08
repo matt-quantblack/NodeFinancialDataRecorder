@@ -27,7 +27,7 @@ npm start
   - account_id: This is the cTrader account id
   - oauth_refresh_token: from the authorised cTrader account
   - oauth_token: from the authorised cTrader account
-  - symbols: array of symbol names to collected data for
+  - symbols: array of symbol names to collect data for
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
